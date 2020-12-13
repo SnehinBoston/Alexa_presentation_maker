@@ -1,0 +1,36 @@
+{
+  "count": 4,
+  "team": "Analytics Team",
+  "user": {
+    "name": "Martin Tyler",
+    "role": "Team Lead",
+    "about": "Martin has a strong expertise in Management. He will be in charge of the team. He has 5 years of experience in Management",
+    "img": "/Users/snehgurdasani/Documents/Auxi/Alexa/deployments/PIII-Prototype-master/Team_slide_images/man.png"
+  },
+  "people": [
+    {
+      "name": "Chris Jones",
+      "role": "Operations",
+      "about": "Chris has a strong expertise in Operations. He will be in charge of Ops. He has 3 years of experience in Operations",
+      "img": "/Users/snehgurdasani/Documents/Auxi/Alexa/deployments/PIII-Prototype-master/Team_slide_images/man2.png"
+    },
+    {
+      "name": "John Smith",
+      "role": "SDE II",
+      "about": "John has a strong expertise in Development. He will be in charge of design. He has 4 years of experience in Development",
+      "img": "/Users/snehgurdasani/Documents/Auxi/Alexa/deployments/PIII-Prototype-master/Team_slide_images/man3.png"
+    },
+    {
+      "name": "Steve Miller",
+      "role": "SDE I",
+      "about": "Steve has a strong expertise in testing. He will be in charge of support. He has 2 years of experience in Testing",
+      "img": "/Users/snehgurdasani/Documents/Auxi/Alexa/deployments/PIII-Prototype-master/Team_slide_images/man4.png"
+    },
+    {
+      "name": "Mike Davis",
+      "role": "Research",
+      "about": "Mike has a strong expertise in Analytics. He will be in charge of Research. He has 3 years of experience in Analytics",
+      "img": "/Users/snehgurdasani/Documents/Auxi/Alexa/deployments/PIII-Prototype-master/Team_slide_images/man5.png"
+    }
+  ]
+}
